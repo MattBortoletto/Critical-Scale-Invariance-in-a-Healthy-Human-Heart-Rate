@@ -1,6 +1,8 @@
 # Critical-Scale-Invariance-in-a-Healthy-Human-Heart-Rate
 Laboratory of Computational Physics mod. A project
 
+Physics of Data master degree
+
 University of Padova
 
 a.y. 2019/2020
